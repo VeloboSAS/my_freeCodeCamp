@@ -56,3 +56,5 @@ def arithmetic_arranger(problems, solve = True):
     else:
         string = first + "\n" + second + "\n" + lines
     return string
+
+
